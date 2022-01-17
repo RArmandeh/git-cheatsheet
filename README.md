@@ -48,3 +48,5 @@
 11. First read README.md and License file, so clone a sample of project in local system and create local branch, add change and commit them, after that merge local branch to master branch, if you have conflict, you should pull from remote branch and fix conflicts, finally, push to remote branch.
         
 12. Branches allow you to fix bugs, or safely implement new ideas in a portion of your repository.You can be integrated by using **#git merg** and **#git rebase** commands.
+ 
+ [@dwsclass](https://github.com/dwsclass) dws-dev-005-git

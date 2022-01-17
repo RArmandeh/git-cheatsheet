@@ -1,5 +1,4 @@
 # git-cheatsheet
-[@dwsclass](https://github.com/dwsclass) dws-dev-005-git
 
 ## **This Repository is about git for devops class bloodrina**
 
